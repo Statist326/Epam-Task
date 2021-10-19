@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>Test File</name>
+    <Aplications>
+        <Element>
+            <name>AutoCad_2010</name>
+            <size>1536</size>
+            <cost>3000</cost>
+        </Element>
+        <Element>
+            <name>Microsoft_office_2020</name>
+            <size>600</size>
+            <cost>2500</cost>
+        </Element>
+        <Element>
+            <name>Winamp</name>
+            <size>300</size>
+            <cost>1500</cost>
+        </Element>
+        <Element>
+            <name>Avast</name>
+            <size>2048</size>
+            <cost>5000</cost>
+        </Element>
+        <Element>
+            <name>Microsoft_Windows_10</name>
+            <size>4096</size>
+            <cost>10000</cost>
+        </Element>
+        <Element>
+            <name>Set_of_the_utilites_for_Windows_8</name>
+            <size>1536</size>
+            <cost>4000</cost>
+        </Element>>
+        <Element>
+            <name>Trouanskii_kon</name>
+            <size>100</size>
+            <cost>1</cost>
+        </Element>
+        <Element>
+            <name>Cherv</name>
+            <size>100</size>
+            <cost>1</cost>
+        </Element>
+    </Aplications>
+</root>
